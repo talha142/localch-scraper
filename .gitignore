@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# scraped output (contains business contact details)
+output/
+*.csv
+
+.DS_Store
